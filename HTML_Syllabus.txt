@@ -1,0 +1,57 @@
+
+       HTML :-
+		   
+			 Basic structure
+			 Heading Tag 
+			 Paragraph Tag 
+			 Empty Tags
+				For Example -  <br> , <img> , <input> 
+			 Attributes 
+			 Image Tag 
+				  - Absolute URL
+				  - Relative URL 
+			 Linking 
+				  Over Image Linkig 
+				  <a></a> Anchor Tag For Hyperreference Linkig
+			 Space 
+				- &nbsp
+				- Pre Tag 
+
+			 HTML Style Attribute
+			 
+				  Text Color       = color:red;
+				  Background Color = background-color:aqua;
+				  Text Size        = font-size:45px;
+				  Text Family      = font-family:cambria;
+				  Text Alignment   = text-align: center; 
+												 left ;
+												 right;		  
+			 HTML Formatting / Decoration 
+			 HTML Table 
+				 - Colspan 
+				 - Rowspan 
+			 HTML Block And Inline Elements
+			 
+			 HTML List 
+				Ordered List 
+				Unordered List 
+				Data List / Description List 
+				
+			 Type Attribute 
+			 Start Attribute 
+			  
+			 Forms 
+			 Attributes
+				id 
+				for 
+				name 
+				value
+			Empty Tag 
+			   <input>
+			
+			Tags
+			   <select></select>
+			   <option></option>		   
+				
+			
+			
